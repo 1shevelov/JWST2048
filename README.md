@@ -8,14 +8,16 @@ Idea, design, and programming by Andrei Shevelev
 ## To build:
 1) Copy the project locally
 2) run "npm i"
-3) run "npm start_orig"
+3) run "npm run start_orig"
    (for MacOS you need to **substitute all entries** of "\\" with "/" in assets building script `nodeScripts/GenerateAssets.js`)
 
 ---
 ## To play:
-open `localhost:8080` or the local IP address as reported in terminal by a webserver
+open `localhost:8080` or the local IP address as reported in the terminal by a web server (when you run "npm run start_orig")
 
 The game is playable with a keyboard: **Q,W,E,A,S,D** to move the board and Arrows: **UP** to change a video background, **LEFT** and **RIGHT** to dim or brighten it.
 Can also be played on mobile/touch devices - just **swipe** in the corresponding direction.
 
 [Gameplay video](https://www.youtube.com/watch?v=yySjj9SB3vY)
+
+P.S. [Original project repo]("npm run start_orig") with commits history, etc.
