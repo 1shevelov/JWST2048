@@ -20,4 +20,4 @@ Can also be played on mobile/touch devices - just **swipe** in the corresponding
 
 [Gameplay video](https://www.youtube.com/watch?v=yySjj9SB3vY)
 
-P.S. [Original project repo]("npm run start_orig") with commits history, etc.
+P.S. [Original project repo](https://github.com/andreiShevelevDC/JWST2048) with commits history, etc.
